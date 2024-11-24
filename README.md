@@ -5,7 +5,7 @@
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=monik719.monik719&color=00cf00" alt=""/>
 <h1>
-  Hola soy Noelia. ¡Encantada de conocerte!
+  Hola soy Monica. ¡Encantada de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
