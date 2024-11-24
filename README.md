@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/monik719/monik719/blob/main/banner.png" width="800"/>
 </div>
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/monica-vargas-garcia-9921561b0)
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=monik719.monik719&color=00cf00" alt=""/>
